@@ -1,0 +1,6 @@
+hu.szandras.cmovietracker.test.app-androidTest-0 C:\PRVT\NYE\Mobil\maf_cmovietracker\app\build\generated\res\resValues\androidTest\debug
+hu.szandras.cmovietracker.test.app-mergeDebugAndroidTestResources-1 C:\PRVT\NYE\Mobil\maf_cmovietracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+hu.szandras.cmovietracker.test.app-mergeDebugAndroidTestResources-2 C:\PRVT\NYE\Mobil\maf_cmovietracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+hu.szandras.cmovietracker.test.app-debugAndroidTest-3 C:\PRVT\NYE\Mobil\maf_cmovietracker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+hu.szandras.cmovietracker.test.app-tracing-1.2.0-4 C:\Users\szaboa1\.gradle\caches\8.9\transforms\b8c0a3c73b4f4bb48405983acab73839\transformed\tracing-1.2.0\res
+hu.szandras.cmovietracker.test.app-core-1.6.1-5 C:\Users\szaboa1\.gradle\caches\8.9\transforms\e6ffec23c6ae3015530e724e00b1da56\transformed\core-1.6.1\res

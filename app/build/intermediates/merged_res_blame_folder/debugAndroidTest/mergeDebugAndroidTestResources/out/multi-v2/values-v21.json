@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "hu.szandras.cmovietracker.test.app-mergeDebugAndroidTestResources-1:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\szaboa1\\.gradle\\caches\\8.9\\transforms\\e6ffec23c6ae3015530e724e00b1da56\\transformed\\core-1.6.1\\res\\values-v21\\values.xml",
+                    "from": {
+                        "startLines": "4,13",
+                        "startColumns": "0,0",
+                        "startOffsets": "146,621",
+                        "endLines": "12,21",
+                        "endColumns": "8,8",
+                        "endOffsets": "620,1093"
+                    },
+                    "to": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,534",
+                        "endLines": "10,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "529,1006"
+                    }
+                }
+            ]
+        }
+    ]
+}
